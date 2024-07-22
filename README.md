@@ -7,3 +7,4 @@ Python
 3.  [Pthon-List](https://github.com/piidus/ML-OPS_NLP_Bootcamp/blob/main/python_practice/list_Assignment.ipynb)
 4.  [Python=Set](https://github.com/piidus/ML-OPS_NLP_Bootcamp/blob/main/python_practice/sets_assignment.ipynb)
 5.  [Python-Dict](https://github.com/piidus/ML-OPS_NLP_Bootcamp/blob/main/python_practice/dictionaries_assignment.ipynb)
+6.  [Python-function](https://github.com/piidus/ML-OPS_NLP_Bootcamp/blob/main/python_practice/advancefunctions.ipynb)
