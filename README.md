@@ -8,4 +8,5 @@ Python
 4.  [Python=Set](https://github.com/piidus/ML-OPS_NLP_Bootcamp/blob/main/python_practice/sets_assignment.ipynb)
 5.  [Python-Dict](https://github.com/piidus/ML-OPS_NLP_Bootcamp/blob/main/python_practice/dictionaries_assignment.ipynb)
 6.  [Python-function](https://github.com/piidus/ML-OPS_NLP_Bootcamp/blob/main/python_practice/advancefunctions.ipynb)
-7.  [Python-Libraries](https://github.com/piidus/ML-OPS_NLP_Bootcamp/blob/main/python_practice/packagesquestion.ipynb)
+7.  [Python-Libraries](https://github.com/piidus/ML-OPS_NLP_Bootcamp/blob/main/python_practice/packagesquestion.ipynb) 
+8.  [Python-File_handling](https://github.com/piidus/ML-OPS_NLP_Bootcamp/blob/main/python_practice/filehandlingquestions.ipynb)
