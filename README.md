@@ -10,3 +10,5 @@ Python
 6.  [Python-function](https://github.com/piidus/ML-OPS_NLP_Bootcamp/blob/main/python_practice/advancefunctions.ipynb)
 7.  [Python-Libraries](https://github.com/piidus/ML-OPS_NLP_Bootcamp/blob/main/python_practice/packagesquestion.ipynb) 
 8.  [Python-File_handling](https://github.com/piidus/ML-OPS_NLP_Bootcamp/blob/main/python_practice/filehandlingquestions.ipynb)
+9.  [Python-Exception_handling](https://github.com/piidus/ML-OPS_NLP_Bootcamp/blob/main/python_practice/exceptionhandlingquestions.ipynb)
+
