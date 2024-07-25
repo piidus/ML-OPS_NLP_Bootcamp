@@ -12,3 +12,4 @@ Python
 8.  [Python-File_handling](https://github.com/piidus/ML-OPS_NLP_Bootcamp/blob/main/python_practice/filehandlingquestions.ipynb)
 9.  [Python-Exception_handling](https://github.com/piidus/ML-OPS_NLP_Bootcamp/blob/main/python_practice/exceptionhandlingquestions.ipynb)
 10.  [Python-Class-OOP](https://github.com/piidus/ML-OPS_NLP_Bootcamp/blob/main/python_practice/classesobjectquestions.ipynb)
+11.  [Python-OOP -Inheritance](https://github.com/piidus/ML-OPS_NLP_Bootcamp/blob/main/python_practice/inhertiancequestions.ipynb)
