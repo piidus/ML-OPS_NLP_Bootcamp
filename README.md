@@ -14,7 +14,9 @@ Python
 10.  [Python-Class-OOP](https://github.com/piidus/ML-OPS_NLP_Bootcamp/blob/main/python_practice/classesobjectquestions.ipynb)
 11.  [Python-OOP -Inheritance](https://github.com/piidus/ML-OPS_NLP_Bootcamp/blob/main/python_practice/inhertiancequestions.ipynb)
 12.  [Python-OOP -test](https://github.com/piidus/ML-OPS_NLP_Bootcamp/blob/main/python_practice/oopsQUESTION.ipynb)
-12.  [Python-OOP -Iterator-Genetor=Decorator](https://github.com/piidus/ML-OPS_NLP_Bootcamp/blob/main/python_practice/itergendecorquestion.ipynb)
+13.  [Python-OOP -Iterator-Genetor=Decorator](https://github.com/piidus/ML-OPS_NLP_Bootcamp/blob/main/python_practice/itergendecorquestion.ipynb)
+14.  [Python-Sqlite-Database](https://github.com/piidus/ML-OPS_NLP_Bootcamp/blob/main/python_practice/Module_SQLite3_Assignments_Questions.ipynb)
+
 
 Data-Analysis::
 1.  [Numpy](https://github.com/piidus/ML-OPS_NLP_Bootcamp/blob/main/data-analysis/numpyassignments.ipynb)
