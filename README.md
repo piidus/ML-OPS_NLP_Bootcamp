@@ -16,6 +16,7 @@ Python
 12.  [Python-OOP -test](https://github.com/piidus/ML-OPS_NLP_Bootcamp/blob/main/python_practice/oopsQUESTION.ipynb)
 13.  [Python-OOP -Iterator-Genetor=Decorator](https://github.com/piidus/ML-OPS_NLP_Bootcamp/blob/main/python_practice/itergendecorquestion.ipynb)
 14.  [Python-Sqlite-Database](https://github.com/piidus/ML-OPS_NLP_Bootcamp/blob/main/python_practice/Module_SQLite3_Assignments_Questions.ipynb)
+15.  [Python-Logger](https://github.com/piidus/ML-OPS_NLP_Bootcamp/blob/main/python_practice/Module_Logging_Assignments_Questions.ipynb)
 
 
 Data-Analysis::
